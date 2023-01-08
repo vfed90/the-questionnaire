@@ -21,7 +21,7 @@ form.addEventListener("submit", (event) => {
     }
 
 
-    fetch('http://46.21.248.81:3001/user', {
+    fetch('https://polinashneider.space/', {
         method: 'POST',
         headers: {
             'Accept': 'application/json',
